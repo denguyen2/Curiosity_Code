@@ -1,1 +1,22 @@
-// add your curiosity code here
+size(420,350);
+background(255);
+fill(0,255,0);
+triangle(360,300,50,300,200,30);
+stroke(255,255,0);
+strokeWeight(10);
+fill(255);
+ellipse(200,210,150,150);
+stroke(255,153,153);
+strokeWeight(10);
+fill(102,51,0);
+ellipse(200,210,100,100);
+stroke(0,255,255);
+strokeWeight(10);
+fill(0);
+ellipse(200,210,50,50);
+stroke(255,0,0);
+line(50,300,200,30);
+stroke(50,255,50);
+line(355,300,200,30);
+stroke(0,0,255);
+line(350,300,50,300);
